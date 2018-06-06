@@ -1,0 +1,26 @@
+.masonry-demo {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* .masonry-item {
+    margin-bottom: 20px;
+    background-color: #f1f1f1;
+    background-size: cover;
+    width: 550px;
+} */
+
+
+.masonry-item {
+    margin-bottom: 20px;
+    background-color: #f1f1f1;
+    background-size: cover;
+    width: 340px;
+}
+
+.masonry-item img {
+    width: 100%;
+    height: 100%;
+    min-height: 340px;
+}
